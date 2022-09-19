@@ -42,8 +42,8 @@ button:hover {
 }
 
 .section-heading {
-	font-weight: 800;
-	font-size: 36px;
+	font-weight: 700;
+	font-size: 28px;
 	line-height: 60px;
 }
 
@@ -63,13 +63,26 @@ button:hover {
 	margin-top: 25px;
 }
 
+.section-paragraph2 {
+	font-weight: 500;
+	font-size: 1px;
+	line-height: 30px;
+	color: #706e6e;
+	margin-top: 25px;
+}
+
 .white-text {
 	color: #fff;
 }
 
+/*
 .mustard-text {
 	color: #B27409;
-}
+}*/
+
+.mustard-text {
+	color: #131313;
+}	
 
 .black-text {
 	color: #131313;
@@ -78,7 +91,7 @@ button:hover {
 @media only screen and (min-width: 1026px) {
 .background-set {
 	/*background-image: url(../../images/BG.png);*/
-	background:black;
+	background:white;
 	background-repeat: no-repeat;
 	height: 100%;
 	width: 100%;
@@ -86,12 +99,12 @@ button:hover {
 	font-weight: 600;
 	font-size: 16px;
 	line-height: 20px;
-	padding-top: 185px;
+	padding-top: 25px;
 }
 }
 @media only screen and (max-width: 1026px) {
 	.background-set {
-		background: black;
+		background: white;
 		background-repeat: no-repeat;
 		height: 100%;
 		width: 100%;
@@ -99,7 +112,7 @@ button:hover {
 		font-weight: 600;
 		font-size: 16px;
 		line-height: 20px;
-		padding-top: 185px;
+		padding-top: 5px;
 	}
   }
 
@@ -133,7 +146,7 @@ button:hover {
 }
 
 .nav-container {
-	padding: 25px 190px;
+	padding: 25px 90px;
 	display: flex;
 	justify-content: space-between;
 	width: 100%;
@@ -241,21 +254,23 @@ button:hover {
 }
 
 
+
 /* ======= INTRO ===== */
 
 #intro h1 {
 	font-weight: Bold;
-	font-size: 44px;
+	font-size: 40px;
 	line-height: 54px;
-	text-align: center;
+	text-align: left;
 }
 
 #intro h4 {
-	font-weight: Bold;
-	font-size: 20px;
+	
+	
+	font-size: 16px;
 	line-height: 24px;
-	text-align: center;
-	color: #fff;
+	text-align: left;
+	color: black;
 	margin-top: 25px;
 }
 
@@ -270,12 +285,18 @@ button:hover {
 }
 
 .demo-btn {
-	padding: 22px 50px;
-	margin: 25px auto;
+	padding: 22px 30px;
+	margin-top: 10px ;
+	margin-bottom: 10px ;
+
+
 	text-align: center;
 	display: block;
 	border: none;
 }
+
+
+
 
 
 /* ======= CERTIFICATE ===== */

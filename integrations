@@ -1,35 +1,30 @@
 ---
 title: "Digital Credential API Integrations"
 
-description: "Enables to issue digital credentials using our Rest API, Zapier or Integrately or with plugins available in popular LMS platforms"
+description: "Immutable Blockchain certificate and badge provider."
 
 layout: V2LayoutPages
 
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
-Hero1Msg: Connect CertifyMe 
+HeroImg: /assets3/images1/2.png
+Hero1Msg: Connect CertifyMe
 Hero2Msg: With Popular LMS Platforms and Third Party Applications
-Hero3Msg: Create, Issue and Manage digital Credentials using our Integrations.
+Hero3Msg: Enables to issue digital credentials using our Rest API, Zapier or Integrately or with plugins available in popular LMS platforms
 
-1FeaturesImg: /assets3/images1/Zapier.png
-1FeaturesTitle: Zapier & Integrately
-1FeaturesMessage: Connect with 5000+ Applications through our No code Integration Platforms Zapier or Integrately. 
-                  Ease to setup and start awarding credentials automatically.
+1FeaturesImg: /assets3/images1/21.png
+1FeaturesTitle: Immutable Credentials
+1FeaturesMessage: A transparent, immutable, and cryptographically verifiable transaction record is offered by QLDB, a fully managed centralized ledger database. To put it another way, QLDB makes it possible to trace each and every modification to already-existing data, as well as its history and goes a step further by encrypting these alterations with hash data that has been cryptographically verified.
 
-2FeaturesImg: /assets3/images1/LMS.png
-2FeaturesTitle: Connect with Popular LMS Platforms
-2FeaturesMessage: Pre-integrated with popular LMS Platforms like Moodle, Thinkific, Learndash, Zoom, Kajabi, and Docebo
-
-
-3FeaturesImg: /assets3/images1/API.png
-3FeaturesTitle: CertifyMe API
-3FeaturesMessage:  Our fully featured API allows you to integrate CertifyMe to create digital certificates and open badges within any system. 
-                   We provide assistance and guidance.
-                   
-4FeaturesImg: /assets3/images1/Socialmedia.png
-4FeaturesTitle: SociaL Media Integrations
-4FeaturesMessage:  LinkedIn Job Portal Integration and In addition to Facebook and Twitter, we support the integration of more than 40 social media platforms.        
+3FeaturesImg: /assets3/images1/20.png
+3FeaturesTitle: Why & How Immutable Credentials benefit you?
+3FeaturesMessage:  Fully managed ledger that provides a transparent, immutable, and cryptographically verifiable credential transaction log.
+                   Track all credential data changes, and maintain a complete and verifiable history of changes over time.
+                   Maintaining accurate and up-to-date data compiled for each issued credential is made easier.
+                   A central database with verifiable transactions
 
 ---
+
+
+

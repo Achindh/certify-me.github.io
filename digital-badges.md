@@ -25,7 +25,7 @@ Hero2Msg: Reward your attendees, students, and employees with validated badges f
 3FeaturesImg: /assets3/images1/Brandingbadge.png
 3FeaturesTitle: Evaluation of skills
 3FeaturesMessage: Create customizable digital badges for professionals or students depending on their skills or competencies in accordance with set standards.
-Also digital badges are a technique of gamifying programs through incremental awards.
+                  Also digital badges are a technique of gamifying programs through incremental awards.
 
 
 ---

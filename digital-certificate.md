@@ -18,8 +18,7 @@ Hero2Msg: With tamper-proof, verifiable credentials, CertifyMe has assisted 1000
 1FeaturesTitle: Easily customizable
 1FeaturesMessage: You may quickly set up your own Digital Credential Platform in the business domain with CertifyMe's White Labeled solutions. 
                   Our dedicated servers will manage your credential systems, guaranteeing a high level of security and customization.
-
-
+                  
 2FeaturesImg: /assets3/images1/LMS.png
 2FeaturesTitle: 40+ Features
 2FeaturesMessage: Every one of our credentials has a special QR Code that can be connected to the recipient's unique IDs. 

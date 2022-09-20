@@ -24,8 +24,9 @@ Hero2Msg: With tamper-proof, verifiable credentials, CertifyMe has assisted 1000
 2FeaturesMessage: Every one of our credentials has a special QR Code that can be connected to the recipient's unique IDs. 
                   Your awardee can post your credentials on more than 50+ social media platforms effortlessly thanks to CertifyMe. 
                   Then there are RSA SHA-1-based cryptographic signatures, Id Tagging, barcodes, and more.
-                  3FeaturesImg: /assets3/images1/LMS.png
                   
+                  
+3FeaturesImg: /assets3/images1/LMS.png
 3FeaturesTitle: Advanced Image Editor
 3FeaturesMessage: Our Advanced Editor helps to create and edit digital certificates.
                   An option of unlimited custom attributes will aid you to use the placeholders as per your requirement.

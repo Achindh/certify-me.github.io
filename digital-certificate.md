@@ -11,7 +11,8 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/1.png
 Hero1Msg: Digital Certificates
 Hero2Msg: With tamper-proof, verifiable credentials, CertifyMe has assisted 1000+ users in 190 countries.
-          Our seamless digital certificate management solution, designed with security first in mind, allows you to create, issue, and manage verifiable certificates.
+          Our seamless digital certificate management solution, designed with security first in mind, allows
+          you to create, issue, and manage verifiable certificates.
 
 1FeaturesImg: /assets3/images1/Zapier.png
 1FeaturesTitle: Easily customizable

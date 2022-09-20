@@ -20,4 +20,14 @@ Hero2Msg: With tamper-proof, verifiable credentials, CertifyMe has assisted 1000
                   Our dedicated servers will manage your credential systems, guaranteeing a high level of security and customization.
 
 
+2FeaturesImg: /assets3/images1/LMS.png
+2FeaturesTitle: 40+ Features:
+2FeaturesMessage: Every one of our credentials has a special QR Code that can be connected to the recipient's unique IDs. 
+                  Your awardee can post your credentials on more than 50+ social media platforms effortlessly thanks to CertifyMe. 
+                  Then there are RSA SHA-1-based cryptographic signatures, Id Tagging, barcodes, and more.
+
+
+
+
+
 ---

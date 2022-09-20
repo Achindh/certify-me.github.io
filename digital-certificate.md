@@ -33,4 +33,7 @@ An option of unlimited custom attributes will aid you to use the placeholders as
 4FeaturesTitle: Canva Integration
 4FeaturesMessage: Canva Integration let you to create certificates which is more flexible and user friendly.
 
+
+
+
 ---

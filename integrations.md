@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
+HeroImg: /assets3/images1/integrations.png
 Hero1Msg: Connect CertifyMe 
 Hero2Msg: With Third Party Application
 Hero3Msg: Create, Issue and Manage digital Credentials using our Integrations.

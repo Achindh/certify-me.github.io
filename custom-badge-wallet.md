@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/4.png
+HeroImg: /assets3/images1/wallet.png
 Hero1Msg: Digital Credentials
 Hero2Msg: Custom Wallet
 Hero3Msg: With CertifyMe's digital wallet, Awardees access stores all the achievements earned from your organization in a single space and can access it at any time.

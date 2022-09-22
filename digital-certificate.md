@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
+HeroImg: /assets3/images1/digitalcertificate.png
 Hero1Msg: Digital Certificates
 Hero2Msg: With tamper-proof, verifiable credentials, CertifyMe has assisted 1000+ users in 190 countries.
           Our seamless digital certificate management solution, designed with security first in mind, allows

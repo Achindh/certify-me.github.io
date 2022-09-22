@@ -14,7 +14,7 @@ Hero3Msg: Secure data Using a cryptographic signature, verify the credentials. F
 
 
 
-1FeaturesImg: /assets3/images1/URL.png
+1FeaturesImg: /assets3/images1/sign 2.png
 1FeaturesTitle: Verify Credentials using cryptographic signature
 1FeaturesMessage: Use our advanced cryptographic signature to verify credentials and protect your credentials from forgery.
 

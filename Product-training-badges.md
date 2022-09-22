@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/3.png
+HeroImg: /assets3/images1/training.png
 Hero1Msg: Verifiable Badges and Certificates 
 Hero2Msg: For Product Training
 Hero2Msg: A complete digital credential solution for product training.

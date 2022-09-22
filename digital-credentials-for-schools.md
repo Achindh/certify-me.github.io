@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/3.png
+HeroImg: /assets3/images1/school.png
 Hero1Msg: Digital Credentials
 Hero2Msg: For Schools
 Hero3Msg: An end to end solution for schools to create verifiable digital documents.

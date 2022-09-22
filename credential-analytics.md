@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/4.png
+HeroImg: /assets3/images1/analytics.png
 Hero1Msg: Digital Credentials
 Hero2Msg: Analytics
 Hero3Msg: Our three-level advanced analytics give you access to your credentialing program's key performance indicators.

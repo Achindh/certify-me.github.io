@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/4.png
+HeroImg: /assets3/images1/hr.png
 Hero1Msg: Digital Certificates and Badges
 Hero2Msg: for upskilling and reskilling or any L&D program
 Hero3Msg: A digital credential is a proof of an accomplishment that a learner can showcase, access, and verify.

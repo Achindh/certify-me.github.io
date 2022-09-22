@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/3.png
+HeroImg: /assets3/images1/elearning.png
 Hero1Msg: Online Badges and Certificates 
 Hero2Msg: For Elearning Platforms
 Hero2Msg: The most Trusted Credentialing Solution with the best ROI for online course providers.

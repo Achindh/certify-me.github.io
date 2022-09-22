@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/3.png
+HeroImg: /assets3/images1/college.png
 Hero1Msg:Immutable Digital Credentials 
 Hero2Msg: For Universities and Colleges
 Hero2Msg: Create, Issue, Share and Validate Immutable digital certificates, badges, transcripts and reports

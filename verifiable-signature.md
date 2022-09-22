@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/3.png
+HeroImg: /assets3/images1/digitalsignature.png
 Hero1Msg: Cryptographic Signature
 Hero3Msg: Secure data Using a cryptographic signature, verify the credentials. For your credentials' security and verification, we added cryptographic signatures based on RSA SHA-1.
 

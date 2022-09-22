@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
+HeroImg: /assets3/images1/documents.png
 Hero1Msg: Verifiable Documents
 Hero2Msg: Easy to Create, Issue and Manage Tamper-proof verifiable documents.
 

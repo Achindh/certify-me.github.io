@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
+HeroImg: /assets3/images1/transcripts.png
 Hero1Msg: Digital Transcripts
 Hero2Msg: Verifiable certifications can be easily created, issued, and managed with CertifyMe
           to recognise, represent, or reward.

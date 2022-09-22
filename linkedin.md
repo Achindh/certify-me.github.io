@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/1.png
+HeroImg: /assets3/images1/linkedin.png
 Hero1Msg: LinkedIn
 Hero2Msg: Job Portal Integration
 Hero3Msg: With the help of our LinkedIn job portal integration, your Awardees can now discover a job that fits their skill set.

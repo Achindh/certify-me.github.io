@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/2.png
+HeroImg: /assets3/images1/ql.png
 Hero1Msg: Immutable Quantum Ledger
 Hero2Msg: Database
 Hero3Msg: Issue, create and award digital credentials with the use of 

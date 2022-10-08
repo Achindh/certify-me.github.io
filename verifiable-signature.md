@@ -11,7 +11,7 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/digitalsignature.png
 Hero1Msg: Advanced
 Hero2Msg:Cryptographic Signature
-Hero2Msg: Make Credentials secure, immutable and cryptographically verifiable.
+Hero3Msg: Make Credentials secure, immutable and cryptographically verifiable.
 
 1FeaturesImg: /assets3/images1/sign 2.png
 1FeaturesTitle: What is Cryptographic Signature

@@ -18,9 +18,7 @@ Hero3Msg: An end-to-end solution for creating, issuing, and managing certificate
 1FeaturesTitle: Create Credential Templates
 1FeaturesMessage: Credential templates can be created with three simple steps. We have an unlimited repository of templates, and users can upload or design their credential images. Canva Integration makes it easy for users to design their images. Canva Integration: Canva Integration makes it easy for users to design their images for their credential templates. With just a few clicks, users can have access to a wide variety of tools and resources that they can use to create their unique images.
 
-2FeaturesImg: /assets3/images1/secure.png
-2FeaturesTitle: Branding Space with CTA
-2FeaturesMessage: The branding space with CTA button on your verification page is one of the most important elements of your page. It is the call to action that tells your visitors what you want them to do next. If you are not using a CTA button, you are missing out on a great opportunity to increase your inbound traffic and collect leads.
+
 
 
 

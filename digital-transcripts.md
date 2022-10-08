@@ -22,6 +22,10 @@ Hero3Msg: Using CertifyMe, users can create, issue, and manage verifiable transc
 2FeaturesTitle: Immutable Transcript Maker
 2FeaturesMessage: Accessing your transcripts and certifications has never been easier. You can now issue transcripts with complete white-labelled credential pages, that is, a URL, logo, footer, and header of the credential page that match your brand. The white-labelled credential page can be generated using the AWS Quantum Ledger and blockchain platform, which is highly secure, reliable, and scalable. Our white-labelled transcripts are certified by a third-party auditor to ensure the authenticity of each transcript.
                   
+3FeaturesImg: /assets3/images1/validate.png
+3FeaturesTitle: Create, Issue and manage
+3FeaturesMessage: When you're looking for a way to issue and manage transcripts, we've got you covered. With our advanced editor, you can create templates easily, and we have multiple methods of issuing quick awards: CSV, APIs for issuing the credential, analytics, and more manageable options so you can measure and analyze your program. CertifyMe is easy-to-use and has all the features that you need to get started on your transcript issuance journey.
+
 
 
 

@@ -24,7 +24,7 @@ Hero3Msg: Using CertifyMe, users can create, issue, and manage verifiable transc
                   
 3FeaturesImg: /assets3/images1/validate.png
 3FeaturesTitle: Create, Issue and manage
-3FeaturesMessage: When you're looking for a way to issue and manage transcripts, we've got you covered. With our advanced editor, you can create templates easily, and we have multiple methods of issuing quick awards: CSV, APIs for issuing the credential, analytics, and more manageable options so you can measure and analyze your program. CertifyMe is easy-to-use and has all the features that you need to get started on your transcript issuance journey.
+3FeaturesMessage: 
 
 
 

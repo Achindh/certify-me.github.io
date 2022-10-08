@@ -13,9 +13,11 @@ Hero1Msg: Advanced
 Hero2Msg:Cryptographic Signature
 Hero3Msg: Make Credentials secure, immutable and cryptographically verifiable.
 
+
 1FeaturesImg: /assets3/images1/sign 2.png
 1FeaturesTitle: What is Cryptographic Signature
 1FeaturesMessage: A cryptographic signature is a mathematical technique used to validate the authenticity and integrity of a message, software or digital document. Signatures are based on public key cryptography, also known as asymmetric cryptography, which uses a pair of mutually authenticating keys – a public key and a private key – to encrypt and decrypt a message.
+
 
 2FeaturesImg: /assets3/images1/sign 2.png
 2FeaturesTitle: RSA

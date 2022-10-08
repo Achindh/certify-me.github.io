@@ -29,6 +29,4 @@ Hero3Msg: Using CertifyMe, users can create, issue, and manage verifiable transc
 
 
 
-
-
 ---

@@ -10,7 +10,7 @@ sitemap.priority : 0.9
 
 HeroImg: /assets3/images1/digitalsignature.png
 Hero1Msg: Advanced
-Hero2Msg:Cryptographic Signature
+Hero2Msg: Cryptographic Signature
 Hero3Msg: Make Credentials secure, immutable and cryptographically verifiable.
 
 

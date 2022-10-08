@@ -24,7 +24,7 @@ Hero3Msg: An end-to-end solution for creating, issuing, and managing certificate
 
 3FeaturesImg: /assets3/images1/branded.png
 3FeaturesTitle: Branded Credentials
-3FeaturesMessage: Using our white-labelling option users can customize the verification page with their URL, logo and footer which fits their brand. Which helps to issue credentials as a front-end issuer. This is a great option when you're just getting started. : Using our full support option we allow users to customize their verification profile with logo, URL, footers and other features. We also provide quick access to a support page.
+3FeaturesMessage: Using our white-labelling option users can customize the verification page with their URL, logo and footer which fits their brand. Which helps to issue credentials as a front-end issuer. This is a great option when you're just getting started. Using our full support option we allow users to customize their verification profile with logo, URL, footers and other features. We also provide quick access to a support page.
 
                   
 4FeaturesImg: /assets3/images1/data.png

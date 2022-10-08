@@ -14,10 +14,6 @@ Hero2Msg: For Universities and Colleges
 Hero3Msg: CertifyMe enables colleges and universities to issue certificates, badges and verifiable transcripts having bank-level encryptions 
 
 
-1FeaturesImg: /assets3/images1/Brandingbadge.png
-1FeaturesTitle: Secure Wallet
-1FeaturesMessage: Students can store their credentials secure in our wallet option. Wallets can be customized to suit organizations' branding. It includes a secure website, email address, SMS, and biometric access verification. Your students will be redirected to the official website of the company. The student will access the website and fill out the form to complete the KYC process. Once done, students can use their saved credentials
-
 
 
 

@@ -22,17 +22,7 @@ Hero3Msg: CertifyMe enables colleges and universities to issue certificates, bad
 2FeaturesTitle: WhiteLabeled Credentials
 2FeaturesMessage: Issue credentials as a front-end face for your organization by customizing the URL, logo, Email and footer part also they get a branding space to highlight the institution's credentials. The same as the customisation part, but the only difference is the look & feel & colour style of it.
 
-3FeaturesImg: /assets3/images1/Logobadge.png
-3FeaturesTitle: Quantum Ledger and Blockchain
-3FeaturesMessage: Students can attach their certification to their LinkedIn profile and it helps them to highlight their achievements before prospective employers. If you are looking for a job, you can add it to your resume and let it stand out.
-                  
-4FeaturesImg: /assets3/images1/Brandingbadge.png
-4FeaturesTitle: Time saver
-4FeaturesMessage: Easy and flexible to use solution which saves 4x the time of an admin. Our interface is beginner-friendly and users can create, issue and manage credentials within a lesser time frame. We have our API which will give us unlimited access. The UI is easy to understand and easy for admins to start using. You can add users, create new roles, add custom fields and customize the interface.
 
-5FeaturesImg: /assets3/images1/Brandingbadge.png
-5FeaturesTitle: Add to profile
-5FeaturesMessage: Students can attach their certification to their LinkedIn profile and it helps them to highlight their achievements before prospective employers. If you are looking for a job, you can add it to your resume and let it stand out.
 
 
 

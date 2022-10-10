@@ -9,7 +9,7 @@ sitemap.priority : 0.9
 
 
 HeroImg: /assets3/images1/white-label.png
-Hero1Msg: White_Labeled
+Hero1Msg: White-Labeled
 Hero2Msg: Digital Certificates and Badges
 Hero3Msg: Award credentials with your brand guidelines and requirements.
 

@@ -16,7 +16,7 @@ Hero3Msg: Certifyme enables schools to create, issue and manage verifiable certi
 
 1FeaturesImg: /assets3/images1/editor.png
 1FeaturesTitle: Create Credentials
-1FeaturesMessage: One of the most effective ways to motivate students is to provide them with credentials. Credentials are an important way for students to show their commitment, and they can have a significant impact on the engagement rate of your pupils. If you already have a student record system in place, we can help you create credentials for your students.
+1FeaturesMessage: One of the most effective ways to motivate your students is to provide them with credentials. Credentials are an important way for students to show their commitment, and they can have a significant impact on the engagement rate of your pupils. CertifyMe enables to create unlimited credential templates and custom field options.
 
                   
 2FeaturesImg: /assets3/images1/time.png
@@ -25,11 +25,11 @@ Hero3Msg: Certifyme enables schools to create, issue and manage verifiable certi
                   
 3FeaturesImg: /assets3/images1/Logo.png
 3FeaturesTitle: Branded Credentials
-3FeaturesMessage: You can now customize your credentials with your school's domain, logo and footer. This makes it easy to make sure that you're creating a strong brand for your students and their accomplishments.
+3FeaturesMessage: You can now customize your credentials with your school's domain, logo and footer. This makes it easy to make sure that you're creating a strong brand for your students and their accomplishments. Whenever you award a credential to a student your institution as a brand also grow with the branding option. 
                   
 3FeaturesImg: /assets3/images1/linkedin-badges.png
 3FeaturesTitle: Sharable
-3FeaturesMessage: Students can now share their achievements over different social media platforms to highlight their awards. The students will be able to post their achievements in the form of a screenshot, videos or a photo over various social media platforms such as Twitter, Facebook, Instagram and Snapchat. The students will also be able to share their achievements via email and SMS.
+3FeaturesMessage: Your Students can nshare their achievements over different social media platforms to highlight their awards. The students will be able to post their achievements over various social media platforms such as Twitter, Facebook, Instagram and Snapchat. The students will also be able to share their achievements via email and SMS. This not only helps the student but also your institution. 
                   
                   
                   

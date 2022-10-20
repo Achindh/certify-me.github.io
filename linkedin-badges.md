@@ -11,16 +11,16 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/jobLinkedin.png
 Hero1Msg: LinkedIn Job Portal Integration
 Hero2Msg: Find relevant jobs using verifiable online credentials
-Hero3Msg: We have a LinkedIn job portal integration which helps the awardee to find the relevant job according to the course or program they completed with a single click.LinkedIn job portal is a powerful tool that can help you land your dream job. 
+Hero3Msg: LinkedIn job portal integration which helps your awardees to find the relevant job according to the course or program they completed.LinkedIn job portal is a powerful tool that can help you land your dream job. 
 
 1FeaturesImg: /assets3/images1/jobportal.png
 1FeaturesTitle: Easy to Navigate to LinkedIn Job Portal
-1FeaturesMessage: If you're looking for a new job, LinkedIn can be a great resource. The site has a job portal that makes finding openings matching your skills and experience easy. You can also connect with potential employers and recruiters through LinkedIn, which can give you a leg up in the job search process. Plus, LinkedIn offers a variety of resources to help you hone your job search skills and prepare for interviews.
+1FeaturesMessage: If your awardees looking for a new job, LinkedIn can be a great resource. The site has a job portal that makes finding openings matching with the skills and experience easy. Awardees can also connect with potential employers and recruiters through LinkedIn, which can give your awardees a leg up in the job search process.
 
 
 2FeaturesImg: /assets3/images1/linkedin.png
 2FeaturesTitle: Explore 1000s of Jobs based on skills
-2FeaturesMessage: There are a lot of job options available today. You can explore thousands of different types of jobs, based on your skills and qualifications. This can help you find the perfect job for you. Many job sites can help you search for jobs, based on your skills. You can also search for jobs on social media sites, such as LinkedIn.   
+2FeaturesMessage: There are a lot of job options available today. Your awardees can explore thousands of different types of jobs, based on their skills and qualifications. This can help them to find the perfect job. LinkedIn caters 1000s of jobs based on demanding skillset.
 
 3FeaturesImg: /assets3/images1/careerbadges.png
 3FeaturesTitle: Helps to Improve Career

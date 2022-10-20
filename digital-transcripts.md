@@ -11,7 +11,7 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/verifiable-diploma.png
 Hero1Msg: Start Awarding
 Hero2Msg: Verifiable Transcripts
-Hero3Msg: Using CertifyMe, users can create, issue, and manage verifiable transcripts with advanced bank-level security encryptions.
+Hero3Msg: Using CertifyMe, you can create, issue, and manage verifiable transcripts with advanced bank-level security encryptions and custom fields.
 
 
 1FeaturesImg: /assets3/images1/security.png
@@ -20,7 +20,7 @@ Hero3Msg: Using CertifyMe, users can create, issue, and manage verifiable transc
                   
 2FeaturesImg: /assets3/images1/secure-badge.png
 2FeaturesTitle: Immutable Transcript Maker
-2FeaturesMessage: Accessing your transcripts and certifications has never been easier. You can now issue transcripts with complete white-labelled credential pages, that is, a URL, logo, footer, and header of the credential page that match your brand. The white-labelled credential page can be generated using the AWS Quantum Ledger and blockchain platform, which is highly secure, reliable, and scalable. Our white-labelled transcripts are certified by a third-party auditor to ensure the authenticity of each transcript.
+2FeaturesMessage: Accessing your transcripts has never been easier. You can now issue transcripts with complete white-labelled credential pages, that is, a URL, logo, footer, and header of the credential page that match your brand. The white-labelled credential page can be generated using the AWS Quantum Ledger and blockchain platform, which is highly secure, reliable, and scalable. Our white-labelled transcripts are certified by a third-party auditor to ensure the authenticity of each transcript.
                   
 3FeaturesImg: /assets3/images1/verification.png
 3FeaturesTitle: Create, Issue and manage

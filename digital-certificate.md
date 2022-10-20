@@ -20,12 +20,12 @@ Hero3Msg: With our advanced features, you can easily create, issue, and manage c
                   
 2FeaturesImg: /assets3/images1/immutable-credentials.png
 2FeaturesTitle: Immutable Certificates
-2FeaturesMessage: Immutable certificates are digitally signed and encrypted by us, and only you can decrypt them. This means that you can be sure that the certificate is authentic and that it comes from an authorized source. We believe in transparency and security. These features are essential for protecting your data from hackers, phishing scams and identity theft. By issuing immutable certificates through our platform we can ensure that our customers get the highest level of protection against these threats. We have
+2FeaturesMessage: Immutable certificates are digitally signed and encrypted, and only you can decrypt them. This means that you can be sure that the certificate is authentic and that it comes from an authorized source. We believe in transparency and security. These features are essential for protecting your data from hackers, phishing scams and identity theft. By issuing immutable certificates through our platform we can ensure that you get the highest level of protection against these threats. We are using aws quantum ledger as well as blockchain technology to make credentials immutable
 
                   
 3FeaturesImg: /assets3/images1/API.png
 3FeaturesTitle:  Integrations and Analytics
-3FeaturesMessage: In the digital age, one of the most important skills you can have is knowing how to analyze data. Whether it's customer behaviour, sales numbers, or even your performance metrics, data helps you make more informed decisions. But it's not always easy to get access to all of the data you need to make those decisions. That's where integrated analytics come in. An integrated analytics platform provides an end-to-end solution for delivering business intelligence from multiple data sources. This means that instead of having to build a solution yourself, you can get everything you need right off the bat—all in one place! We also have integration with zapier, Popular LMS Platforms and Integrately to award credentials.
+3FeaturesMessage: In the digital age, Analytics is an important factor which helps you in every process. With CertifyMe's three level analytics option you can analyze the impact of your program. Our integrated analytics feature provides an end-to-end solution for delivering business intelligence from credentialing. This means that instead of having to build a solution yourself, you can get everything you need right off the bat—all in one place! We also have integration with zapier, Popular LMS Platforms and Integrately to award credentials.
 
 
 4FeaturesImg: /assets3/images1/whitelabel.png

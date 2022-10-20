@@ -11,8 +11,7 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/Wallet-1.png
 Hero1Msg: Custom Wallet
 Hero2Msg: Secure Space to Store Credentials
-Hero3Msg: Custom Wallet is the simplest and most secure way to store all your digital credentials in one place.
-Store your credentials securely in your custom wallet.
+Hero3Msg: Custom Wallet is the simplest and most secure way to store all your digital credentials in one place. Store your credentials securely in your custom wallet.
 
 
 1FeaturesImg: /assets3/images1/wallet1.png

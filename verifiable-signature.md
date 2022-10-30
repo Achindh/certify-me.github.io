@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/digital-signature.png
+HeroImg: /assets3/images1/Signature.png
 Hero1Msg: Advanced
 Hero2Msg: Cryptographic Signature
 Hero3Msg: Make Your Credentials secure, immutable and cryptographically verifiable using public and private key.

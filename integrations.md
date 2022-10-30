@@ -1,5 +1,5 @@
 ---
-title: "Integrate digital credentials with LMS Platforms"
+title: "Integrate your application or system to automate awarding and managing credentials"
 
 description: ""
 
@@ -9,8 +9,8 @@ sitemap.priority : 0.9
 
 
 HeroImg: /assets3/images1/API-1.png
-Hero1Msg: Automate
-Hero2Msg: Awarding Verifiable Credentials
+Hero1Msg: Integrate
+Hero2Msg: With More Than 5000+ Applications
 Hero3Msg: Automate Issue, Retrive and Delete Certificates and badges using our Integrations
 
 1FeaturesImg: /assets3/images1/LMS.png

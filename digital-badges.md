@@ -9,8 +9,8 @@ sitemap.priority : 0.9
 
 
 HeroImg: /assets3/images1/online-badge.png
-Hero1Msg: Digital Badges
-Hero2Msg: WhiteLabeled Verifiable Badges
+Hero1Msg: Award Verifiable
+Hero2Msg: Digital Badges
 Hero3Msg: Start awarding verifiable badges to boost your company's credibility in the eyes of clients and customers. Scale up your program with whitelabeled digital badges.
 
 1FeaturesImg: /assets3/images1/digital-badges.png

@@ -1,14 +1,14 @@
 ---
 title: "Whitelabel Credentials"
 
-description: "Branded Whitelabel digital Credentials according to issue verifiable credentials"
+description: "Branded Whitelabel digital Credentials which suits the brand guidelines"
 
 layout: V2LayoutPages
 
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/white-label.png
+HeroImg: /assets3/images1/2.png
 Hero1Msg: White-Labeled
 Hero2Msg: Digital Certificates and Badges
 Hero3Msg: Award credentials with your brand guidelines and requirements.

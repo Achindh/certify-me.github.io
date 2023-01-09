@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/2.png
+HeroImg: /assets3/Image3/workplace.png
 Hero1Msg: White-Labeled
 Hero2Msg: Digital Certificates and Badges
 Hero3Msg: Award credentials with your brand guidelines and requirements.

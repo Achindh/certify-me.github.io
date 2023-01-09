@@ -11,7 +11,7 @@ sitemap.priority : 0.9
 HeroImg: /assets3/images1/2.png
 Hero1Msg: Digital Credentials 
 Hero2Msg: for Banking and Finance
-Hero3Msg: Award credentials with your brand guidelines and requirements.
+Hero3Msg: Verifiable Bank Statements, Insurance Credentials, Invoices.
 
 
 1FeaturesImg: /assets3/images1/URL.png

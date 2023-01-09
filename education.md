@@ -8,7 +8,7 @@ layout: V2LayoutPages
 sitemap.priority : 0.9
 
 
-HeroImg: /assets3/images1/2.png
+HeroImg: /assets3/Image3/education.png
 Hero1Msg: White-Labeled
 Hero2Msg: Digital Credentials for Students
 Hero3Msg: Award Verifiable Transcripts, Learning Badges, ID cards,and Report Cards for educational Institutions

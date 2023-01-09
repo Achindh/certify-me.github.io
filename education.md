@@ -1,5 +1,5 @@
 ---
-title: "Whitelabel Credentials"
+title: "Whitelabel Digital Credentials for Students"
 
 description: "Verifiable Digital Credential for students and learners"
 
@@ -10,8 +10,8 @@ sitemap.priority : 0.9
 
 HeroImg: /assets3/images1/2.png
 Hero1Msg: White-Labeled
-Hero2Msg: Digital Certificates and Badges
-Hero3Msg: Award credentials with your brand guidelines and requirements.
+Hero2Msg: Digital Credentials for Students
+Hero3Msg: Award Verifiable Transcripts, Learning Badges, ID cards,and Report Cards for educational Institutions
 
 
 1FeaturesImg: /assets3/images1/URL.png

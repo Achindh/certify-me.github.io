@@ -1,7 +1,7 @@
 ---
-title: "Whitelabel Credentials"
+title: "Digital Credentials for Ecommerce"
 
-description: "Branded Whitelabel digital Credentials which suits the brand guidelines"
+description: "Verify Products using advanced digital credential management software"
 
 layout: V2LayoutPages
 
@@ -10,8 +10,8 @@ sitemap.priority : 0.9
 
 HeroImg: /assets3/images1/2.png
 Hero1Msg: White-Labeled
-Hero2Msg: Digital Certificates and Badges
-Hero3Msg: Award credentials with your brand guidelines and requirements.
+Hero2Msg: Product Verification Software
+Hero3Msg: Digitally Verifiable Warranty Cards, Proof of authenticity for ecommerce.
 
 
 1FeaturesImg: /assets3/images1/URL.png
